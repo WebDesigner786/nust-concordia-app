@@ -1,0 +1,6 @@
+{
+  "name": "NUST Concordia Central",
+  "description": "Smart cafeteria ordering & anti-scam transaction verification portal for NUST Concordia 1, 2, and 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
